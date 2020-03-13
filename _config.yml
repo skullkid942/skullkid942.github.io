@@ -1,11 +1,11 @@
 # Site settings
-author: Bethany Holley
-title: 
+author: Beth Holley
+title: Flatiron Portfolio
 header-img: img/home-bg.png
 email: chocolatechipfaced@gmail.com
-copyright_name: Bethany Holley
+copyright_name: Beth Holley
 description: > # this means to ignore newlines until "baseurl:"
-  
+  My Portfolio Blog for Coding
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  skullkid942
